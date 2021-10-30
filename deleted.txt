@@ -1,0 +1,85 @@
+  <!-- =========================
+       Banner 2
+       =========================== -->
+       <section id="banner2" class="banner banner-2 fancybox-white p-0">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-6 inner-padding  bg-overlay bg-overlay-theme bg-parallax">
+              <div class="bg-img"><img src="assets/images/backgrounds/2.jpg" alt="background"></div>
+              <div class="heading heading-2 mb-50">
+                <span class="heading__subtitle color-white">World's Leading Industry Corporation!</span>
+                <h3 class="heading__title color-white">Providing Innovative and Sustainable Solutions</h3>
+                <p class="heading__desc color-white">As a diversified construction management, design-build, and general
+                  contracting firm, Industic Group is recognized as one of the World's leading Industry and Manufacturing
+                  Corporation! Industic Group has been building relationships and projects that last. Serving an
+                impressive list of long-term clients with experience and expertise in multiple industries.</p>
+              </div><!-- /.heading -->
+              <div class="row">
+                <!-- fancybox item #1 -->
+                <div class="col-4 col-sm-4 col-md-4 col-lg-4">
+                  <div class="fancybox-item">
+                    <div class="fancybox__icon">
+                      <i class="icon-waste"></i>
+                    </div><!-- /.fancybox-icon -->
+                    <div class="fancybox__content">
+                      <h4 class="fancybox__title">Environmental <br> Sensitivity</h4>
+                      <div class="divider__line divider__sm divider__white"></div>
+                    </div><!-- /.fancybox-content -->
+                  </div><!-- /.fancybox-item -->
+                </div><!-- /.col-lg-3 -->
+                <!-- fancybox item #2 -->
+                <div class="col-4 col-sm-4 col-md-4 col-lg-4">
+                  <div class="fancybox-item">
+                    <div class="fancybox__icon">
+                      <i class="icon-gears-1"></i>
+                    </div><!-- /.fancybox-icon -->
+                    <div class="fancybox__content">
+                      <h4 class="fancybox__title">Personalised <br> Solutions</h4>
+                      <div class="divider__line divider__sm divider__white"></div>
+                    </div><!-- /.fancybox-content -->
+                  </div><!-- /.fancybox-item -->
+                </div><!-- /.col-lg-3 -->
+                <!-- fancybox item #3 -->
+                <div class="col-4 col-sm-4 col-md-4 col-lg-4">
+                  <div class="fancybox-item">
+                    <div class="fancybox__icon">
+                      <i class="icon-management"></i>
+                    </div><!-- /.fancybox-icon -->
+                    <div class="fancybox__content">
+                      <h4 class="fancybox__title">Performance <br> Measures</h4>
+                      <div class="divider__line divider__sm divider__white"></div>
+                    </div><!-- /.fancybox-content -->
+                  </div><!-- /.fancybox-item -->
+                </div><!-- /.col-lg-3 -->
+              </div><!-- /.row -->
+            </div><!-- /.col-lg-6 -->
+            <div class="col-sm-12 col-md-12 col-lg-6 bg-overlay bg-overlay-4">
+              <div class="carousel-wrap">
+                <div class="carousel owl-carousel carousel-dots" data-slide="1" data-slide-md="1" data-slide-sm="1"
+                data-autoplay="true" data-nav="false" data-dots="true" data-space="0" data-loop="true" data-speed="700">
+                <div class="item">
+                  <div class="counter-item counters-white">
+                    <div class="counter__icon"><i class="icon-valve"></i></div>
+                    <h4 class="counter">6,154</h4>
+                    <p class="counter__subtitle">Projects</p>
+                    <p class="counter__desc">Utilising latest processing solutions, and decades of work
+                    experience.</p>
+                  </div><!-- /.counter-item -->
+                </div>
+                <div class="item">
+                  <div class="counter-item counters-white">
+                    <div class="counter__icon"><i class="icon-worker-1"></i></div>
+                    <h4 class="counter">2,512</h4>
+                    <p class="counter__subtitle">Employees</p>
+                    <p class="counter__desc">Utilising latest processing solutions, and decades of work
+                    experience.</p>
+                  </div><!-- /.counter-item -->
+                </div>
+              </div><!-- /.carousel -->
+            </div>
+            <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background">
+            </div><!-- /.col-lg-6 -->
+          </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /. Banner 2 -->
